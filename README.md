@@ -9,6 +9,7 @@ This project analyzes inventory and sales data using SQL. It focuses on stock mo
 - SQL Server  
 - SQL functions: JOINs, GROUP BY, ORDER BY, aggregates  
 - Window functions & date functions  
+![Uploading carbon (4).png…]()
 
 ---
 
